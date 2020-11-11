@@ -125,7 +125,7 @@ input[submit]:hover{
     <h3> {{ message }} from VUE</h3>
 
     <button @click="changeModal()">Compose</button>
-    <a href="questionaire.php"><button> Questionaires</button></a>
+    <a href="questionnaire.php"><button> questionnaire</button></a>
     <button>Compose</button>
     <button>Compose</button>
     <a href="">Questionaires</a>
